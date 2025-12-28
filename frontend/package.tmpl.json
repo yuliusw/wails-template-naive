@@ -1,5 +1,6 @@
 {
   "name": "{{.ProjectName}}",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -12,10 +13,10 @@
     "vue": "^3.2.25"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.3.3",
-    "naive-ui": "^2.32.1",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "naive-ui": "^2.43.2",
     "vfonts": "^0.0.3",
-    "vite": "^2.9.9"
+    "vite": "^5.0.0"
   },
   "keywords": [],
   "author": "{{.AuthorName}}"
