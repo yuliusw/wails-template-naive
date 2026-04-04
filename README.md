@@ -6,6 +6,7 @@
 ## About
 
 A template for [Wails](https://wails.io/) with [NavieUI](https://www.naiveui.com/).
+update dependeces for new version[ wails,vite,and so] to  work.
 
 
 ## Creating the Projekt
